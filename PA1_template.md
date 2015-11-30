@@ -131,7 +131,7 @@ comp<-data.frame(WithNA_Mean =stepsDaymean , NewMean = stepsDaymean2 , WithNA_Me
  Compare the expected mean and median considering missing values, with the calculated mean after filling missing data by each day average steps of the day of missing values . 
 
 <!-- html table generated in R 3.2.2 by xtable 1.8-0 package -->
-<!-- Sun Nov 15 04:45:57 2015 -->
+<!-- Mon Nov 30 10:22:37 2015 -->
 <table border=1>
 <tr> <th>  </th> <th> WithNA_Mean </th> <th> NewMean </th> <th> WithNA_Median </th> <th> NewMedian </th>  </tr>
   <tr> <td align="right"> 1 </td> <td align="right"> 10766.19 </td> <td align="right"> 10766.19 </td> <td align="right"> 10765 </td> <td align="right"> 10766.19 </td> </tr>

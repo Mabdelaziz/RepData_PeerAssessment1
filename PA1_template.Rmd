@@ -3,8 +3,10 @@ title: "Reproducible Research: Peer Assessment 1"
 output: 
   html_document:
     keep_md: true
+    self_contained: true
 author: "Mohamed Abdelaziz"
 date: "Sunday, November 15, 2015"
+
 ---
 ---
 
