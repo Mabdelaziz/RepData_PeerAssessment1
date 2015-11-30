@@ -1,12 +1,13 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
-    self_contained: true
+title: 'Reproducible Research: Peer Assessment 1'
 author: "Mohamed Abdelaziz"
 date: "Sunday, November 15, 2015"
-
+output:
+  html_document:
+    fig_caption: yes
+    keep_md: yes
+    number_sections: yes
+    toc: yes
 ---
 ---
 
